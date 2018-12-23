@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491743520 source:/home/risky/Bureau/tp_kad/tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp.h"
+
+1491740906 /home/risky/Bureau/tp_kad/tp.h
+
+1491740805 source:/home/risky/Bureau/tp_kad/tp_eleve.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp.h"
+

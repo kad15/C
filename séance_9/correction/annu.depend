@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474915792 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu/main.c
+	"annuaire.h"
+
+1474916055 /home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu/annuaire.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1474915525 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu/annuaire.c
+	"annuaire.h"
+

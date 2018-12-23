@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474809251 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_8/ctp6_2/ctp6_2main.c
+	<stdio.h>
+	<stdlib.h>
+	"ctp6_2.h"
+	<string.h>
+
+1474726359 /home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_8/ctp6_2/ctp6_2.h
+	<stdio.h>
+
+1474808619 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_8/ctp6_2/ctp6_2.c
+	<stdio.h>
+	<stdlib.h>
+	"ctp6_2.h"
+

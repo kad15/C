@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1474895068 source:/home/eleve/IENAC/beldjiab/Bureau/COURS_C/tp9/annu/annuaire.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"annuaire.h"
+
+1474892954 /home/eleve/IENAC/beldjiab/Bureau/COURS_C/tp9/annu/annuaire.h
+
+1474893025 source:/home/eleve/IENAC/beldjiab/Bureau/COURS_C/tp9/annu/annuaire_main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"annuaire.h"
+

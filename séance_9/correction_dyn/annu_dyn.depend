@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1474913832 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu_dyn/main.c
+	"annuaire.h"
+
+1474913837 /home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu_dyn/annuaire.h
+	"halloc.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1474902446 /home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu_dyn/halloc.h
+	<stdlib.h>
+	<string.h>
+	<new>
+
+1474918388 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu_dyn/annuaire.c
+	"annuaire.h"
+
+1474902446 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/séance_9/annu_dyn/halloc.c
+	"halloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

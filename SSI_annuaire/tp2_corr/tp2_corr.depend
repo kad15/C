@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1460196646 source:/home/risky/Bureau/tp2_corr/gestion_fic.c
+	"annuaire.h"
+
+1460195616 /home/risky/Bureau/tp2_corr/annuaire.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1491557369 source:/home/risky/Bureau/tp2_corr/main.c
+	"annuaire.h"
+
+1491556619 source:/home/risky/Bureau/tp2_corr/utile.c
+	"annuaire.h"
+
+1491750788 source:/home/risky/Bureau/tp2_corr/annuaire.c
+	"annuaire.h"
+

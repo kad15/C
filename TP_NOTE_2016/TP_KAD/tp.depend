@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491653539 source:/home/risky/Bureau/TP_BELDJILALI/tp_main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp.h"
+
+1491672417 /home/risky/Bureau/TP_BELDJILALI/tp.h
+
+1491675359 source:/home/risky/Bureau/TP_BELDJILALI/tp.c
+	"tp.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

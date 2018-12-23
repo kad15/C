@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475005953 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/annales2014/perso/tp.c
+	<stdio.h>
+	<stdlib.h>
+	"tp.h"
+
+1475008017 /home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/annales2014/perso/tp.h
+
+1475007990 source:/home/risky/ENAC/2_IENAC15_2EME_ANNEE/LANGAGE_C/annales2014/perso/tp_eleve.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp.h"
+
